@@ -4,7 +4,7 @@ public class Transferencia {
     public static void main(String[] args) {
 
        Scanner scanner = new Scanner(System.in);
-       System.out.println("Ingrese su nombre: ");       
+       System.out.println("Ingrese su nombre por favor ");       
         int monto = 500000;
         System.out.println("Su saldo es de "+monto+" pesos");
         System.out.println("Ingrese el nombre de el destinatario: ");       
